@@ -50,7 +50,6 @@ nav h1 [class*="fa-"] {
 
 nav a {
   color: white;
-  text-decoration: none;
   display: block;
   background-color: var(--black);
   
