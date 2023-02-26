@@ -33,5 +33,5 @@ or visit the [Github repo](https://github.com/cykj40/tech-blog) for more informa
 
 
 If you're interested in employment opportunities related to web development or just want to say hello, feel free to 
-[email me](mailto:cyrusk81@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/cyrus-jalili-khiabani-44605b163) or [Github profile](https://www.github.com/cykj40).
+[📧 email me](mailto:cyrusk81@gmail.com) or visit my [LinkedIn](https://www.linkedin.com/in/cyrus-jalili-khiabani-44605b163) or [Github profile](https://www.github.com/cykj40).
 
